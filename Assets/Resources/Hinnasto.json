@@ -1,0 +1,338 @@
+{
+   "10: lähtömaksu": {
+        "luokka1": "1-4 henkeä arki 06-18",
+        "luokka2": "5-8 henkeä arki",
+        "luokka3": "1-4 henkeä iltaisin klo 18-06 sekä pyhänä",
+        "luokka4": "5-8 henkeä pyhä",
+
+        "hinta1": "4,50",
+        "hinta2": "8,20",
+        "hinta3": "8,20",
+        "hinta4": "8,20",
+
+       "tunniste1": "L1", 
+        "tunniste2": "L2" 
+    },
+    "11: matkataksa": {
+        "luokka1": "1-4 henkeä",
+        "luokka2": "5-8 henkeä",
+        "luokka3": "1-4 henkeä pyhä ja ilta",
+        "luokka4": "5-8 henkeä pyhä ja ilta",
+
+        "hinta1": "1,10",
+        "hinta3": "1,75",
+        "hinta2": "1,15",
+        "hinta4": "1,75",
+
+       "tunniste1": "L1", 
+        "tunniste2": "L2" 
+    },
+    "12: aikataksa": {
+        "luokka1": "aikaveloitus arki",
+        "luokka2": "aikaveloitus pyhä ja ilta",
+        "hinta1": "0,98",
+        "hinta2": "1,08"
+    },
+   "13: lisämaksut": {
+        "luokka1": "Ennakkotilaus 1-4",
+        "luokka2": "Ennakkotilaus 5-8",
+        "luokka3": "Erikoislisä",
+        "luokka4": "Invalisä",
+        "luokka5": "Porras- tai paarilisä",
+        "luokka6": "Business class",
+        "luokka7": "Asemalisä",
+        "luokka8": "Muu lisä",
+
+        "hinta1": "5,50",
+        "hinta2": "10,50",
+        "hinta3": "5,50",
+        "hinta4": "16,50",
+        "hinta5": "35,00",
+        "hinta6": "15,00",
+        "hinta7": "3,60",
+        "hinta8": "50,00"
+    },
+    "14: minimimaksu": {
+        "luokka1": "minimimaksu",
+        "hinta1": "11,50"
+    },
+    "15: odotustaksa": {
+        "luokka1": "aikaveloitus arki",
+        "luokka2": "aikaveloitus pyhä ja ilta",
+        "hinta1": "0,98",
+        "hinta2": "1,08",
+        "tunniste1": "L0"
+    },
+    "30: lähtömaksu": {
+        "luokka1": "ma-la 06-18",
+        "luokka2": "esteetön",
+        "luokka3": "18-06 ja pyhät",
+        "luokka4": "esteetön pyhä",
+
+        "hinta1": "4,38",
+        "hinta2": "6,71",
+        "hinta3": "6,37",
+        "hinta4": "6,71",
+
+        "tunniste1": "VKN", 
+        "tunniste2": "VKE" 
+
+    },
+    "31: matkataksa": {
+        "luokka1": "matkataksa VKN",
+        "luokka2": "matkataksa VKE",
+
+        "hinta1": "0,99",
+        "hinta2": "1,60",
+
+       "tunniste1": "VKN", 
+        "tunniste2": "VKE" 
+    },
+    "32: aikataksa": {
+        "luokka1": "aikaveloitus VKN",
+        "luokka2": "aikaveloitus VKE",
+        "hinta1": "0,95",
+        "hinta2": "1,01"
+    },
+   "33: lisämaksut": {
+        "luokka1": "Invalisä",
+        "luokka2": "Porraslisä",
+        "luokka3": "Palvelulisä no",
+        "luokka4": "Palvelulisä es",
+
+        "hinta1": "14,48",
+        "hinta2": "28,50",
+        "hinta3": "4,15",
+        "hinta4": "4,36"
+    },
+    "34: minimimaksu": {
+        "luokka1": "minimimaksu",
+        "hinta1": "11,50"
+    },
+    "35: odotustaksa": {
+        "luokka1": "odotustaksa VKN",
+        "luokka2": "odotustaksa VKE",
+        "hinta1": "0,95",
+        "hinta2": "1,01",
+        "tunniste1": "VKNODO",
+        "tunniste2": "VKEODO"
+    },
+    "60: lähtömaksu": {
+        "luokka1": "1-4 hlö ma-la 06-18",
+        "luokka2": "5-8 hlö",
+        "luokka3": "1-4 hlö 18-06 ja pyhät",
+        "luokka4": "5-8 hlö pyhä",
+
+        "hinta1": "4,05",
+        "hinta2": "7,38",
+        "hinta3": "7,38",
+        "hinta4": "7,38",
+
+       "tunniste1": "YHA", 
+        "tunniste3": "YTI" 
+    },
+    "61: matkataksa": {
+        "luokka1": "1-4 hlö arki",
+        "luokka2": "5-8 hlö arki",
+        "luokka3": "1-4 hlö pyhä",
+        "luokka4": "5-8 hlö pyhä",
+
+        "hinta1": "0,99",
+        "hinta2": "1,58",
+        "hinta3": "1,04",
+        "hinta4": "1,58",
+
+        "tunniste1": "YHA",
+        "tunniste2": "YTI"
+    },
+    "62: aikataksa": {
+        "luokka1": "aikaveloitus arki e/min",
+        "luokka2": "aikaveloitus pyhä ja ilta e/min",
+
+        "hinta1": "0,89",
+        "hinta2": "0,98"
+    },
+   "63: lisämaksut": {
+        "luokka1": "Ennakkotilaus 1-4",
+        "luokka2": "Ennakkotilaus 5-8",
+        "luokka3": "Erikoislisä",
+        "luokka4": "Invalisä",
+        "luokka5": "Porras- tai paarilisä",
+        "luokka6": "Asemalisä",
+        "luokka7": "Muu lisä",
+
+        "hinta1": "4,95",
+        "hinta2": "9,45",
+        "hinta3": "4,95",
+        "hinta4": "14,85",
+        "hinta5": "31,50",
+        "hinta6": "3,25",
+        "hinta7": "50,00"
+    },
+    "64: minimimaksu": {
+        "luokka1": "minimimaksu",
+        "hinta1": "10,50"
+    },
+    "70: lähtömaksu": {
+        "luokka1": "1-4 hlö ma-la 06-18",
+        "luokka2": "1-4 hlö 18-06 ja pyhät",
+        "luokka3": "5-8 hlö arki",
+        "luokka4": "5-8 hlö pyhä",
+
+        "hinta1": "4,05",
+        "hinta2": "7,38",
+        "hinta3": "7,38",
+        "hinta4": "7,38",
+
+        "tunniste1": "VRHA", 
+        "tunniste2": "VRTI" 
+    },
+    "71: matkataksa": {
+        "luokka1": "1-4 hlö arki",
+        "luokka2": "5-8 hlö arki",
+        "luokka3": "1-4 hlö pyhä",
+        "luokka4": "5-8 hlö pyhä",
+
+        "hinta1": "0,99",
+        "hinta2": "1,58",
+        "hinta3": "1,04",
+        "hinta4": "1,58",
+
+        "tunniste1": "VRHA", 
+        "tunniste2": "VRTI" 
+    },
+    "72: aikataksa": {
+        "luokka1": "aikaveloitus arki e/min",
+        "luokka2": "aikaveloitus pyhä ja ilta e/min",
+
+        "hinta1": "0,89",
+        "hinta2": "0,98"
+    },
+    "73: lisämaksut": {
+        "luokka1": "Ennakkotilaus 1-4",
+        "luokka2": "Ennakkotilaus 5-8",
+        "luokka3": "Erikoislisä",
+        "luokka4": "Invalisä",
+        "luokka5": "Porras- tai paarilisä",
+        "luokka6": "Asemalisä",
+        "luokka7": "Muu lisä",
+
+        "hinta1": "4,95",
+        "hinta2": "9,45",
+        "hinta3": "4,95",
+        "hinta4": "14,85",
+        "hinta5": "31,50",
+        "hinta6": "3,25",
+        "hinta7": "50,00"
+    },
+    "74: minimimaksu": {
+        "luokka1": "minimimaksu",
+        "hinta1": "10,35"
+    },
+    "100: lentoasema": {
+        "luokka1": "lentoasema, matkataksa",
+        "luokka2": "lentoasema, keskusta",
+        "luokka3": "lentoasemalta lähialueelle (5km)",
+
+        "hinta1": "2,14",
+        "hinta2": "40,90",
+        "hinta3": "17,80",
+
+        "tunniste1": "Lento", 
+        "tunniste2": "LentoHKI", 
+        "tunniste3": "Lento5km" 
+    },
+    "110: lähtömaksu": {
+        "luokka1": "lähtömaksu, arki ja aatot",
+        "luokka2": "lähtömaksu, yö ja pyhät",
+
+        "hinta1": "4,94",
+        "hinta2": "7,53"
+    },
+    "111: matkataksa": {
+        "luokka1": "taksaluokka 1 (1-4 hlö) e/km",
+        "luokka2": "taksaluokka 2 (yli 4 hlö tai paarikuljetus) e/km",
+
+        "hinta1": "1,35",
+        "hinta2": "1,73",
+
+        "tunniste1": "KELAUMB1", 
+        "tunniste2": "KELAUMB2" 
+    },
+    "113: lisämaksut": {
+        "luokka1": "Avustamislisä",
+        "luokka2": "Porras- ja paarilisä",
+
+        "hinta1": "13,14",
+        "hinta2": "25,18"
+    },
+    "115: odotustaksa": {
+        "luokka1": "odotustaksa e/H",
+
+        "hinta1": "39,37",
+
+        "tunniste1": "KELAUMB0" 
+    },
+    "120: lähtömaksu": {
+        "luokka1": "lähtömaksu, arki ja aatot",
+        "luokka2": "lähtömaksu, yö ja pyhät",
+
+        "hinta1": "5,95",
+        "hinta2": "9,09"
+    },
+    "121: matkataksa": {
+        "luokka1": "taksaluokka 1 (1-4 hlö) e/km",
+        "luokka2": "taksaluokka 2 (yli 4 hlö tai paarikuljetus) e/km",
+
+        "hinta1": "1,62",
+        "hinta2": "2,09",
+
+        "tunniste1": "KELAKHC1", 
+        "tunniste2": "KELAKHC2" 
+    },
+    "123: lisämaksut": {
+        "luokka1": "Avustamislisä",
+        "luokka2": "Porras- ja paarilisä",
+
+        "hinta1": "15,85",
+        "hinta2": "30,36"
+    },
+    "125: odotustaksa": {
+        "luokka1": "odotustaksa e/H",
+
+        "hinta1": "47,47",
+
+        "tunniste1": "KELAKHC0" 
+    },
+    "130: lähtömaksu": {
+        "luokka1": "lähtömaksu, arki ja aatot",
+        "luokka2": "lähtömaksu, yö ja pyhät",
+
+        "hinta1": "5,76",
+        "hinta2": "8,78"
+    },
+    "131: matkataksa": {
+        "luokka1": "taksaluokka 1 (1-4 hlö) e/km",
+        "luokka2": "taksaluokka 2 (yli 4 hlö tai paarikuljetus) e/km",
+
+        "hinta1": "1,57",
+        "hinta2": "2,02",
+
+        "tunniste1": "KELALAC1", 
+        "tunniste2": "KELALAC2" 
+    },
+    "133: lisämaksut": {
+        "luokka1": "Avustamislisä",
+        "luokka2": "Porras- ja paarilisä",
+
+        "hinta1": "15,33",
+        "hinta2": "29,37"
+    },
+    "135: odotustaksa": {
+        "luokka1": "odotustaksa e/H",
+
+        "hinta1": "47,92",
+
+        "tunniste1": "KELALAC0" 
+    }
+}
